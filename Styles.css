@@ -41,6 +41,10 @@ h1 {
   color: #5C70C1    ;
 }
 
+#chandler{
+  border: 10px double #5C70C1;
+}
+
 #quiz {
   background-color: #E1F1FF  ;
   font-size:25px;
